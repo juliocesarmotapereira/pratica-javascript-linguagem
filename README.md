@@ -14,6 +14,7 @@
 - constant é um tipo de variável que não pode ser modificada uma vez que sua atribuição original foi feita
 - let é um tipo de variável que varia
 - gerar listas a partir do array, adciona item push, remove item splice,
+- \n pula linha, if e else, operadores lógicos, if encadeado, else if, && e ||
 
 ### atalhos
 - shift + alt + seta (copiar linha)
